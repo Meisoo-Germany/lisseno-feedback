@@ -1,6 +1,6 @@
 # Lisseno — Feedback & Bug Reports
 
-[Lisseno](https://lisseno.com/?utm_source=github&utm_medium=referral&utm_campaign=prelaunch) is a native macOS app that translates live audio from the apps you already use — Zoom, Teams, Meet, browsers, video players — into your language, spoken into your headphones. Not captions, and no bot joins your call.
+[Lisseno](https://lisseno.com/?utm_source=github&utm_medium=referral&utm_campaign=prelaunch) is a native macOS app that translates live audio from the apps you already use — Zoom, Teams, Meet, browsers, video players — into your language, spoken into your headphones. Not captions, and no bot joins your call. With **Listen + Speak** you answer in your language, and the call hears your words as a translated voice in theirs.
 
 It is client-only and BYOK: your own OpenAI API key (stored in the macOS Keychain), audio streams directly from your Mac to OpenAI. Lisseno has no backend and stores no audio, transcripts, or keys.
 
@@ -13,4 +13,4 @@ It is client-only and BYOK: your own OpenAI API key (stored in the macOS Keychai
 
 ## Status
 
-Early access opens **July 14, 2026**. Lisseno is an early build with a limited, tested app matrix — Zoom, Teams, Meet, browsers and video players are the core. macOS 14+, Apple Silicon.
+Early access opens **July 14, 2026**. Lisseno is an early build with a limited, tested app matrix — Zoom, Teams, Meet, browsers and video players are the core. Speaking back into calls is the newest capability, verified on fewer apps than listening. macOS 14+, Apple Silicon.
